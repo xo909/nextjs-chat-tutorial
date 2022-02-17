@@ -52,7 +52,7 @@ const Auth = () => {
           </div>
 
           <button type="submit" className="submit-button">
-            Login / Sign Up
+            Login / Sign Up 
           </button>
         </form>
       </div>
