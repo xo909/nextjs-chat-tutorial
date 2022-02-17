@@ -32,7 +32,7 @@ const Auth = () => {
     <div className="background">
       <div className="auth-container">
         <form className="auth-form" onSubmit={(e) => onSubmit(e)}>
-          <div className="auth-title">NextJS Chat</div>
+          <div className="auth-title">Honeycord Free | Honeycord Free Will Be Not Updateded Anymore And Will Be Only For Everyone 1k Messages, Unless You Buy Honeycord+</div>
 
           <div className="input-container">
             <input
